@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "K_K_Tech", "K_K_Tech.vbproj", "{BFCE21BD-6AEA-40E5-82F3-030BD3E09D8D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KKtech_Setup", "..\KKtech_Setup\KKtech_Setup.vdproj", "{3666B0BC-67ED-40E2-8D02-E6BBE5C63F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCE21BD-6AEA-40E5-82F3-030BD3E09D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCE21BD-6AEA-40E5-82F3-030BD3E09D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCE21BD-6AEA-40E5-82F3-030BD3E09D8D}.Debug|x86.ActiveCfg = Debug|x86
+		{BFCE21BD-6AEA-40E5-82F3-030BD3E09D8D}.Debug|x86.Build.0 = Debug|x86
+		{BFCE21BD-6AEA-40E5-82F3-030BD3E09D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCE21BD-6AEA-40E5-82F3-030BD3E09D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFCE21BD-6AEA-40E5-82F3-030BD3E09D8D}.Release|x86.ActiveCfg = Release|x86
+		{BFCE21BD-6AEA-40E5-82F3-030BD3E09D8D}.Release|x86.Build.0 = Release|x86
+		{3666B0BC-67ED-40E2-8D02-E6BBE5C63F7C}.Debug|Any CPU.ActiveCfg = Debug
+		{3666B0BC-67ED-40E2-8D02-E6BBE5C63F7C}.Debug|x86.ActiveCfg = Debug
+		{3666B0BC-67ED-40E2-8D02-E6BBE5C63F7C}.Release|Any CPU.ActiveCfg = Release
+		{3666B0BC-67ED-40E2-8D02-E6BBE5C63F7C}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E2B32A-158C-48AE-B68C-F026C12F3412}
+	EndGlobalSection
+EndGlobal
